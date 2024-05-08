@@ -5,6 +5,7 @@ import Modify1 from "./opgaver/Modify1/Modify1";
 import Modify2 from "./opgaver/Modify2/Modify2";
 import Modify3 from "./opgaver/Modify3/Modify3";
 import Modify4 from "./opgaver/Modify4/Modify4";
+import Modify5 from "./opgaver/Modify5/Modify5";
 import Use1 from "./opgaver/Use1/Use1";
 import Use2 from "./opgaver/Use2/Use2";
 import Use3 from "./opgaver/Use3/Use3";
@@ -28,6 +29,7 @@ function App() {
           "modify-2",
           "modify-3",
           "modify-4",
+          "modify-5",
           "create-1"
       ];
 
@@ -47,6 +49,7 @@ function App() {
                 <Modify2 />
                 <Modify3 />
                 <Modify4 />
+                <Modify5 />
                 <Create1 />
             </main>
         </>

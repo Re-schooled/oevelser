@@ -3,7 +3,7 @@ import Assignment from "../../components/Assignment";
 /**
  * 
  * Forklaring: Hvis du skal lave en kasse med samme højde og bredde, har Tailwind CSS en praktisk klasse kaldet "size", der definerer både højde og bredde til det samme. 
- * Du kan læse mere om størrelsesklasser i Tailwind CSS-dokumentationen [her](https://tailwindcss.com/docs/size).
+ * Du kan læse mere om størrelsesklasser i Tailwind CSS-dokumentationen [her]https://tailwindcss.com/docs/size. (CTRL klik linket)
  * 
  * Opgave:     Ændr de fire divs til at bruge disse forskellige størrelsesklasser.
  *             1. Den første skal have klassen "size-3.5".
