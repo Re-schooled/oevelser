@@ -1,16 +1,14 @@
 import Assignment from "../../components/Assignment";
 
 /**
- * Hej Klassekammerat, denne opgave omhandler også Tailwind,
- * 
- * 
+ *  
  * Forklaring: her skal du vise brugen af Width. Du ser forneden en div der indeholder et "ClassName", opgaven lyder:
  * Opgave:  Du skal give den et ClassName="w-full" derefter skal du se eksemplet.
  * 
- * HUSK: Du skal ikke ændre i andet end ClassName, og du skal ikke ændre i stylingen i nogen af filerne.
- *       Kagelisten skal følges!
+ * HUSK: Du skal ikke ændre i andet end ClassName.
  * 
  * w-full er det samme som at skrive dette i css
+ * 
  * div{
  *   width: 100%;
  * } 
